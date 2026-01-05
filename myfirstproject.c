@@ -111,7 +111,7 @@ void signup()
      }
       if (invalid)continue; 
      
-     printf("please enter email id :");
+     printf("please enter email id :"); 
      scanf("%s",&email_id);
     
   printf("\nSignup Successful!");
