@@ -6,7 +6,7 @@ char reg_username[20];
 char reg_password[20];
 char username[20];
 char password[20];
-char email_id[30];
+char email_id[30]; 
 char mobile_no[20];
 char Source_city[25];
 char Destination_city[25];
